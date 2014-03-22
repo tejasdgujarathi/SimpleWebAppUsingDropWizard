@@ -1,0 +1,11 @@
+out/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+bin/
+target/
+build/
+WEB-INF/classes
+WEB-INF/lib
